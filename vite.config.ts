@@ -16,7 +16,7 @@ export default defineConfig(({ mode }) => ({
     VitePWA({
       registerType: 'autoUpdate',
       manifest: {
-        name: 'Login Flow Manager',
+        name: 'Plataforma Flex Secure Web Base',
         short_name: 'Login App',
         description: 'A secure login flow management application',
         theme_color: '#ffffff',
