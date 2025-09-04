@@ -1,0 +1,4 @@
+
+# Optional workspace configuration if needed
+packages:
+  - '.'
