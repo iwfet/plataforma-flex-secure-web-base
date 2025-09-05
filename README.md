@@ -30,7 +30,7 @@ Este projeto foi construído com tecnologias modernas e populares no ecossistema
 
 Este projeto foi projetado para funcionar em conjunto com um backend robusto e escalável. Ele já está configurado para se integrar perfeitamente com a API construída com [NestJS](https://nestjs.com/).
 
-**Repositório do Backend**: [backend-base-nest-api](https://github.com/iwfet/backend-base-nest-api)
+**Repositório do Backend**: [plataforma-flex-secure-web-base-api](https://github.com/iwfet/plataforma-flex-secure-web-base-api)
 
 Agradecemos ao criador do projeto de backend pela excelente arquitetura que complementa esta base web.
 
